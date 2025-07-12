@@ -97,10 +97,6 @@
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
       "name": "牛牛资源"
     },
-    "uku": {
-      "api": "https://api.ukuapi88.com/api.php/provide/vod",
-      "name": "U酷资源站"
-    },
     "xinlanga": {
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
       "name": "新浪资源"
