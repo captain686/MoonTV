@@ -112,6 +112,41 @@
     "jyzy": {
       "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
       "name": "金鹰资源"
+    },
+    "iqiyizyapi.com": {
+      "name": "爱奇艺",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "detail": "https://iqiyizyapi.com"
+    },
+    "tyyszy.com": {
+      "name": "天涯影视",
+      "api": "https://tyyszy.com/api.php/provide/vod",
+      "detail": "https://tyyszy.com"
+    },
+    "www.maoyanzy.com": {
+      "name": "猫眼资源",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "detail": "https://www.maoyanzy.com"
+    },
+    "www.subozy.com": {
+      "name": "速播资源",
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "detail": "https://www.subozy.com"
+    },
+    "p2100.net": {
+      "name": "飘零资源",
+      "api": "https://p2100.net/api.php/provide/vod",
+      "detail": "https://p2100.net"
+    },
+    "www.haohuazy.com": {
+      "name": "豪华资源",
+      "api": "https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod",
+      "detail": "https://www.haohuazy.com"
+    },
+    "lovedan.net": {
+      "name": "艾旦影视",
+      "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
+      "detail": "https://lovedan.net"
     }
   }
 }
